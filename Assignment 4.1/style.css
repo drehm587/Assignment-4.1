@@ -1,0 +1,22 @@
+body
+{
+    background-image: url("background\ image.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1
+{
+    text-align: center;
+    text-shadow: 10px;
+    font-size: 24;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button
+{
+    position: relative;
+    
+}
